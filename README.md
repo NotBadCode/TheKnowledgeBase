@@ -2,15 +2,16 @@
 
 
 Сборник полезных материалов по программированию и смежным темам.
+
 Collection of useful information on programming and related topics.
 
 
 * Programming
     * General
-	* [Books](/books.jpg)
-	* Patterns [ENG](http://designpatternsphp.readthedocs.io/en/latest/), [RUS](http://designpatternsphp.readthedocs.io/ru/latest/README.html#)
-	* Patterns 2 [RUS](http://design-pattern.ru/index.html)
-	* [Codewars](https://www.codewars.com)
+        * [Books](/books.jpg)
+        * Patterns [ENG](http://designpatternsphp.readthedocs.io/en/latest/), [RUS](http://designpatternsphp.readthedocs.io/ru/latest/README.html#)
+        * Patterns 2 [RUS](http://design-pattern.ru/index.html)
+        * [Codewars](https://www.codewars.com)
     * PHP
         * PSR [ENG](https://www.php-fig.org/psr/), [RUS](https://github.com/samdark/fig-standards-ru/tree/master/accepted/ru)
         * [Полезный сборник материалов и задач](https://github.com/codedokode/pasta)
