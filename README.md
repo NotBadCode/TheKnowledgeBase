@@ -22,7 +22,7 @@ Collection of useful information on programming and related topics.
             * Yii 2
                 * [Coding standards](https://github.com/yiisoft/yii2-coding-standards)
                 * [Cookbook](http://yii2-cookbook.readthedocs.io/)
-		* [Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
+                * [Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
 * Tools
     * Git
         * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
