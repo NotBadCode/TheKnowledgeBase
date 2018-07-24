@@ -12,12 +12,14 @@ Collection of useful information on programming and related topics.
         * Patterns [ENG](http://designpatternsphp.readthedocs.io/en/latest/), [RUS](http://designpatternsphp.readthedocs.io/ru/latest/README.html#)
         * Patterns 2 [RUS](http://design-pattern.ru/index.html)
         * [Codewars](https://www.codewars.com)
+        * [Масштабирование и оптимизация](https://ruhighload.com/)
     * PHP
         * PSR [ENG](https://www.php-fig.org/psr/), [RUS](https://github.com/samdark/fig-standards-ru/tree/master/accepted/ru)
         * [Полезный сборник материалов и задач](https://github.com/codedokode/pasta)
         * PHP The Right Way [ENG](http://www.phptherightway.com/), [RUS](http://getjump.github.io/ru-php-the-right-way/)
         * [Online PHP functions](http://php.fnlist.com)
         * [Online PHP functions 2](http://onlinephpfunctions.com/)
+        * [Collection of PHP snippets](https://github.com/appzcoder/30-seconds-of-php-code)
         * Frameworks
             * Yii 2
                 * [Coding standards](https://github.com/yiisoft/yii2-coding-standards)
@@ -42,6 +44,7 @@ Collection of useful information on programming and related topics.
         * [You might not need jQuery](http://youmightnotneedjquery.com/)
 * Interesting articles
     * [Чек-лист по выживанию сайта](https://habrahabr.ru/post/329478/)
+    * [Чек-лист по безопасности для веб-разработчика](https://github.com/minotaura/ru-web-developer-security-checklist)
     * [Мультиязычность в веб-проектах](https://habrahabr.ru/post/192228/)
     * [Hype Driven Development](https://habrahabr.ru/company/edison/blog/316668/)
     * [Семантическое Версионирование](https://semver.org/lang/ru/)
