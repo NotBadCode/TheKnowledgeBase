@@ -57,4 +57,5 @@ Collection of useful information on programming and related topics.
     * [Hype Driven Development](https://habrahabr.ru/company/edison/blog/316668/)
     * [Ваш язык программирования — отстой](https://habr.com/post/315152/)
     * [Принципы Fail Fast! и Forgive!](https://habr.com/post/218325/)
+    * [YAGNI и хлеб](https://habr.com/post/153225/)
     * [Семантическое Версионирование](https://semver.org/lang/ru/)
