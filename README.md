@@ -6,8 +6,8 @@
 Collection of useful information on programming and related topics.
 
 
-* Programming
-    * General
+* Programming / Программирование
+    * General / Основы
         * [Books](/books.jpg)
         * Patterns [ENG](http://designpatternsphp.readthedocs.io/en/latest/), [RUS](http://designpatternsphp.readthedocs.io/ru/latest/README.html#)
         * Patterns 2 [RUS](http://design-pattern.ru/index.html)
@@ -20,12 +20,17 @@ Collection of useful information on programming and related topics.
         * [Online PHP functions](http://php.fnlist.com)
         * [Online PHP functions 2](http://onlinephpfunctions.com/)
         * [Collection of PHP snippets](https://github.com/appzcoder/30-seconds-of-php-code)
+        * [Search PHP libraries and apps with rating](https://phptrends.com/)
+        * [PHP-Дайджест + Фронтенда](https://habr.com/company/zfort/)
+        * [Large list of links to PHP](https://github.com/ziadoz/awesome-php)
         * Frameworks
             * Yii 2
                 * [Coding standards](https://github.com/yiisoft/yii2-coding-standards)
                 * [Cookbook](http://yii2-cookbook.readthedocs.io/)
-                * [Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
-* Tools
+                * [Паттерны Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)a
+    * SQL  
+      * Style Guide [ENG](https://www.sqlstyle.guide/), [RUS](https://www.sqlstyle.guide/ru/)
+* Tools / Инструменты
     * Git
         * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
         * [GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -36,15 +41,19 @@ Collection of useful information on programming and related topics.
         * [SQL Fiddle](http://sqlfiddle.com/)
         * [codeshare](https://codeshare.io/)
         * [pythex](https://pythex.org/)
-        * [rextester](http://rextester.com/)
         * [@rextester_bot](https://github.com/wrxck/rextester-telegram-bot)
-    * Compare
+        * Regex testers / Тестирование регулярных выражений
+            * [rextester](http://rextester.com/)
+            * [regex101](https://regex101.com/)
+    * Compare / Сравнения
         * [StackShare](https://stackshare.io)
         * [Can i use CSS](https://caniuse.com/)
         * [You might not need jQuery](http://youmightnotneedjquery.com/)
-* Interesting articles
+* Interesting articles / Интересные статьи
     * [Чек-лист по выживанию сайта](https://habrahabr.ru/post/329478/)
     * [Чек-лист по безопасности для веб-разработчика](https://github.com/minotaura/ru-web-developer-security-checklist)
     * [Мультиязычность в веб-проектах](https://habrahabr.ru/post/192228/)
     * [Hype Driven Development](https://habrahabr.ru/company/edison/blog/316668/)
+    * [Ваш язык программирования — отстой](https://habr.com/post/315152/)
+    * [Принципы Fail Fast! и Forgive!](https://habr.com/post/218325/)
     * [Семантическое Версионирование](https://semver.org/lang/ru/)
