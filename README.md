@@ -21,8 +21,8 @@ Collection of useful information on programming and related topics.
         * [Online PHP functions 2](http://onlinephpfunctions.com/)
         * [Collection of PHP snippets](https://github.com/appzcoder/30-seconds-of-php-code)
         * [Search PHP libraries and apps with rating](https://phptrends.com/)
-        * [PHP-Дайджест + Фронтенда](https://habr.com/company/zfort/)
         * [Large list of links to PHP](https://github.com/ziadoz/awesome-php)
+        * [PHP и Фронтенд дайджесты](https://habr.com/company/zfort/)
         * Frameworks
             * Yii 2
                 * [Coding standards](https://github.com/yiisoft/yii2-coding-standards)
