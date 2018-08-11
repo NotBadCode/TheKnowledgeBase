@@ -60,3 +60,9 @@ Collection of useful information on programming and related topics.
     * [Принципы Fail Fast! и Forgive!](https://habr.com/post/218325/)
     * [YAGNI и хлеб](https://habr.com/post/153225/)
     * [Семантическое Версионирование](https://semver.org/lang/ru/)
+* Interviews / Собеседования
+   * [Популярные базовые вопросы по PHP и веб разработки](https://www.kobzarev.com/wp-content/uploads/books/php/PHPbook.pdf)
+   * [Callable  в PHP](https://habr.com/post/259991/)
+   * [Static    в PHP](https://habr.com/post/259627/)
+   * [Iterable  в PHP](https://habr.com/post/324934/)
+   * [Сигнатуры в PHP](https://habr.com/post/328890/)
