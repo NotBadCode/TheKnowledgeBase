@@ -17,6 +17,7 @@ Collection of useful information on programming and related topics.
         * PSR [ENG](https://www.php-fig.org/psr/), [RUS](https://github.com/samdark/fig-standards-ru/tree/master/accepted/ru)
         * [Полезный сборник материалов и задач](https://github.com/codedokode/pasta)
         * PHP The Right Way [ENG](http://www.phptherightway.com/), [RUS](http://getjump.github.io/ru-php-the-right-way/)
+        * [Pattern Money for PHP](http://moneyphp.org/en/latest/)
         * [Online PHP functions](http://php.fnlist.com)
         * [Online PHP functions 2](http://onlinephpfunctions.com/)
         * [Collection of PHP snippets](https://github.com/appzcoder/30-seconds-of-php-code)
