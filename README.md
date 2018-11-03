@@ -38,6 +38,7 @@ Collection of useful information on programming and related topics.
         * [GitHub Flow](https://guides.github.com/introduction/flow/)
         * [Tips/Советы](https://github.com/git-tips/tips)
         * [Хорошая практика в сообщении коммитов](https://habrahabr.ru/post/329992/)
+        * [Обучающая Git игра] (https://learngitbranching.js.org/)
     * Online Coding
         * [ideone](https://ideone.com/)
         * [SQL Fiddle](http://sqlfiddle.com/)
